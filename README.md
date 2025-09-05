@@ -56,8 +56,9 @@ Average customer satisfaction rating was 7.0+ across product lines.
 
 Food and Beverages received the highest customer ratings.
 
-✨ Author: Parineeta Jagratt
-📌 Internship Task – SQL Fundamentals (Retail Orders Database)
+Female customers contributed the maximum share to overall sales revenue.
+
+
 
 ✨ Author: Parineeta Jagratt
 📌 Internship Task – SQL Fundamentals (Retail Orders Database)
